@@ -1,0 +1,1 @@
+The ICRA 2023 apper link is https://www.researchgate.net/publication/367990592_ICRA2023Differential_Dynamic_Programming_based_Hybrid_Manipulation_Strategy_for_Dynamic_Grasping 
